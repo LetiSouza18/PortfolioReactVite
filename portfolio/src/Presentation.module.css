@@ -1,0 +1,31 @@
+.presentation{
+    padding-top: 120px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.presentation h1{
+    font-size: 44px;
+}
+
+.presentation h4{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.presentation button{
+    background-color:rgba(255, 100, 100, 1);
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+.presentation button:hover{
+        color: aliceblue;
+        background-color: #010B28;
+        transform: translateY(-7px);
+        transition-duration: 0.5s;
+}
