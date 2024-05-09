@@ -1,12 +1,12 @@
 .experience{
-    background-color: rgba(237, 247, 250, 1);
+    background-color: #4BBBAD;
     left:0;
     padding: 20px 0px 20px 0px;
     margin-top: 100px;
 }
 
 .experience body{
-    background-color: rgba(237, 247, 250, 1);
+    background-color: #4BBBAD;
     display: flex;
     justify-content: space-around;
 }
@@ -17,7 +17,7 @@
 }
 
 .experience button{
-    background-color:rgba(255, 100, 100, 1);
+    background-color:#6930C3;
     border: none;
     color: rgba(255, 255, 255, 1);
     font-size: 14px;
