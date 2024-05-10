@@ -6,6 +6,7 @@ import Projects from './Projects';
 import Experience from './Experience';
 import Contact from './Contact';
 import Skills from './Skills';
+import Certified from './Certified';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Skills></Skills>
         <Experience></Experience>
         <Projects></Projects>
+        <Certified></Certified>
         <Contact></Contact>
       </div>
   )

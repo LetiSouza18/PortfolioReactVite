@@ -1,12 +1,12 @@
 .experience{
-    background-color: #4BBBAD;
+    background-color: #61A5C2;
     left:0;
     padding: 20px 0px 20px 0px;
     margin-top: 100px;
 }
 
 .experience body{
-    background-color: #4BBBAD;
+    background-color: #61A5C2;
     display: flex;
     justify-content: space-evenly;
 }
