@@ -2,12 +2,12 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import styles from './Galery.module.css'
-import australia from './img/fotos/australia.svg';
-import into from './img/fotos/into.svg';
-import cargo from './img/fotos/cargo.svg';
-import ambu from './img/fotos/ambu.svg';
-import replay from './img/fotos/replay.svg';
-import snct from './img/fotos/snct.svg';
+import australia from '../img/photos/australia.svg';
+import into from '../img/photos/into.svg';
+import cargo from '../img/photos/cargo.svg';
+import ambu from '../img/photos/ambu.svg';
+import replay from '../img/photos/replay.svg';
+import snct from '../img/photos/snct.svg';
 
 function Galery() {
     return (

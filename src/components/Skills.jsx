@@ -1,10 +1,10 @@
 
 import styles from './Skills.module.css'
-import javascript from './img/skills/javascript.svg'
-import html from './img/skills/html.svg'
-import css from './img/skills/css.svg'
-import react from './img/skills/react.svg'
-import bootstrap from './img/skills/bootstrap.svg'
+import javascript from '../img/skills/javascript.svg'
+import html from '../img/skills/html.svg'
+import css from '../img/skills/css.svg'
+import react from '../img/skills/react.svg'
+import bootstrap from '../img/skills/bootstrap.svg'
 
 function Skills(){
     return(
@@ -23,6 +23,7 @@ function Skills(){
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
                 <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
                 <img alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
             </div>

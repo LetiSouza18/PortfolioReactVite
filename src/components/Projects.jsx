@@ -1,8 +1,8 @@
 import Cards from "./Cards"
 import styles from './Projects.module.css'
-import lpdnc from './img/lpdnc.svg'
-import portfolio from './img/portfolio.svg'
-import api from './img/api.svg'
+import lpdnc from '../img/projects/lpdnc.svg'
+import portfolio from '../img/projects/portfolio.svg'
+import api from '../img/projects/api.svg'
 
 function Projects(){
     return(

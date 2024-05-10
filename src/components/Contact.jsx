@@ -1,5 +1,5 @@
-import linkedin from './img/icons/linkedin.svg';
-import github from './img/icons/github.svg';
+import linkedin from '../img/icons/linkedin.svg';
+import github from '../img/icons/github.svg';
 import styles from './Contact.module.css';
 
 function Contact (){

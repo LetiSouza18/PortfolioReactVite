@@ -1,5 +1,5 @@
 import styles from './Presentation.module.css';
-import foto from './img/perfil/foto.svg';
+import foto from '../img/perfil/foto.svg';
 
 function Presentation() {
     return(

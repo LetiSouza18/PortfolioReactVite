@@ -1,12 +1,12 @@
 
-import Navbar from './Navbar';
+import Navbar from './components/Navbar';
 import './App.css';
-import Presentation from './Presentation';
-import Projects from './Projects';
-import Experience from './Experience';
-import Contact from './Contact';
-import Skills from './Skills';
-import Certified from './Certified';
+import Presentation from './components/Presentation';
+import Projects from './components/Projects';
+import Experience from './components/Experience';
+import Contact from './components/Contact';
+import Skills from './components/Skills';
+import Certified from './components/Certified';
 
 function App() {
   return (
@@ -15,8 +15,8 @@ function App() {
         <Presentation></Presentation>
         <Skills></Skills>
         <Experience></Experience>
-        <Projects></Projects>
         <Certified></Certified>
+        <Projects></Projects>
         <Contact></Contact>
       </div>
   )

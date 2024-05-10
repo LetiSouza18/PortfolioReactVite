@@ -1,16 +1,17 @@
 import styles from './Certified.module.css';
 import Cards from './Cards';
-import frontend from './img/certificados/frontend.svg';
-import design from './img/certificados/design.svg';
-import planejamento from './img/certificados/planejamento.svg';
-import scrum from './img/certificados/scrum.svg';
-import web from './img/certificados/web.svg';
+import frontend from '../img/certifieds/frontend.svg';
+import design from '../img/certifieds/design.svg';
+import planejamento from '../img/certifieds/planejamento.svg';
+import scrum from '../img/certifieds/scrum.svg';
+import web from '../img/certifieds/web.svg';
 
 function Certified(){
     return(
         <div id="Certified" className={styles.certified}>
             <header>
                 <p>Certificados</p>
+            </header>
                 <Cards
                 img={frontend}
                 title="Introdução à Front-end com React.JS"
@@ -41,7 +42,6 @@ function Certified(){
                 text="Escola DNC"
                 link="https://files.dnc.group/acervo/680/139318/95fa3839e65ee75022be7b9bbf8517f5.pdf"
                 ></Cards>
-            </header>
         </div>
     )
 }
