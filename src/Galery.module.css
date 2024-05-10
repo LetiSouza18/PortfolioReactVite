@@ -1,0 +1,9 @@
+.galery div{
+    display: 'block';
+    width: 700;
+    padding-top: 20px;
+}
+
+.galery img{
+    height: 300px;
+}

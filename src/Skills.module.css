@@ -1,0 +1,25 @@
+.skill{
+    margin-left: 10%;
+}
+
+.skill img{
+    height: 130px;
+    margin: 20px;
+    filter: drop-shadow(0px 4px 4px rgb(0, 0, 0.25, 0.25));
+    transition-duration: .5s;
+}
+
+.skill img:hover{
+    transform: translateY(-10px);
+    transition-duration: .5s;
+    height: 180px;
+}
+
+.skill p{
+    font-size: 22px;
+}
+
+.skill div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

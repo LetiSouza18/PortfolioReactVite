@@ -5,7 +5,7 @@ function Card({img, title, text, link}){
         <div className={styles.cards}>
             <a href={link}><img src={img}></img></a>
             <section>
-                <h1>{title}</h1>
+                <strong><h1>{title}</h1></strong>
                 <p>{text}</p>
             </section>
         </div>

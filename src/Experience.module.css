@@ -8,11 +8,12 @@
 .experience body{
     background-color: #4BBBAD;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .experience header p{
     margin-left: 10%;
+    padding-bottom: 20px;
     font-size: 22px;
 }
 
@@ -21,11 +22,11 @@
     border: none;
     color: rgba(255, 255, 255, 1);
     font-size: 14px;
-    margin-top: 30px;
+    margin-top: 20px;
     padding: 7px;
     border-radius: 3px;
     width: 150px;
-    margin-left: 10%;
+    margin-left: 14%;
 }
 
 .experience section{

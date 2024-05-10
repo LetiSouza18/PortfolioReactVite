@@ -18,3 +18,13 @@
     cursor: pointer;
     transition-duration: 1;
 }
+
+.cards p{
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.cards h1{
+    padding-top: 25px;
+    font-size: 24px;
+}
