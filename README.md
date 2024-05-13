@@ -81,7 +81,9 @@ Feedbacks e pesquisas ajudaram a melhorar o portfólio.
 
 
 ### Como navegar pelo site
-Vídeo explicativo:
-https://github.com/LetiSouza18/portfolioReactVite/assets/138714479/37863a8e-27b2-4239-9d3b-9040cbcd255c
+
+https://github.com/LetiSouza18/portfolioReactVite/assets/138714479/b20ba011-fb63-4fde-811a-281dc6b79e7e
+
+
 
 
